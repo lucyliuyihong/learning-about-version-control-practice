@@ -1,1 +1,2 @@
-# learning-about-version-control-practice
+# Learning about Version Control Practice
+Author: Lucy Liu
